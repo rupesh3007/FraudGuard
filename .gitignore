@@ -42,3 +42,6 @@ venv.bak/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+!frontend/src/lib/
+!frontend/src/lib/api.js
