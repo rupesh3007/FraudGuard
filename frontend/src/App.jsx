@@ -9,7 +9,7 @@ import Footer from "./components/Footer.jsx";
 import { uploadCsv, analyzeSession, fetchResults, fetchDemoResults, deriveBreakdowns } from "./lib/api.js";
 import { DEMO_SUMMARY, DEMO_BREAKDOWNS, DEMO_TRANSACTIONS } from "./lib/demoData.js";
 
-const GITHUB_URL = "https://github.com/your-team/fraudguard";
+const GITHUB_URL = "https://github.com/rupesh3007/FraudGuard";
 const TEAM = []; // e.g. ["Aryan Bhale", "Jiya Singh", "Keshav Sharma"]
 
 const NAV_LINKS = [
